@@ -1,1 +1,0 @@
-usb start 2;mmc part;mmcbininfo;\n
